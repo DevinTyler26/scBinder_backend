@@ -1,3 +1,5 @@
+# [Deployed Application](http://scbinder.us-west-2.elasticbeanstalk.com/)
+
 ## Introduction
 
 This project is the backend of the scheduling binder, an imaginary app that a call center can use to look up providers/doctors/nurses that work at a medical clinic.
