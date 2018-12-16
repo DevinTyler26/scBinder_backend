@@ -1,0 +1,20 @@
+{
+  "name": "scBinder_backend",
+  "version": "1.0.0",
+  "description": "This project is the backend of scb, an imaginary video rental app. I've used scb as an example in several of my online programming courses, such as:",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^6.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

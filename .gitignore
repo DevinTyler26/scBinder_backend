@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+logfile.log
+.env
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
