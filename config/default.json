@@ -1,6 +1,0 @@
-{
-  "jwtPrivateKey": "unsecureKey",
-  "db": "mongodb://testuser:Icone261!!@ds041157.mlab.com:41157/schedule-binder",
-  "port": "3900",
-  "requiresAuth": true
-}
