@@ -1,10 +1,6 @@
 ## Introduction
 
-This project is the backend of scb, an imaginary video rental app. I've used scb as an example in several of my online programming courses, such as:
-
-- https://codewithmosh.com/p/mastering-react
-- https://codewithmosh.com/p/the-complete-node-js-course
-- https://codewithmosh.com/p/asp-net-mvc
+This project is the backend of the scheduling binder, an imaginary app that a call center can use to look up providers/doctors/nurses that work at a medical clinic.
 
 This is the implementation of scb in Node.js.
 
@@ -46,7 +42,7 @@ This will launch the Node server on port 3900. If that port is busy, you can set
 
 Open up your browser and head over to:
 
-http://localhost:3900/api/locations
+http://localhost:3900/api/providers
 
 You should see the list of locations. That confirms that you have set up everything successfully.
 
